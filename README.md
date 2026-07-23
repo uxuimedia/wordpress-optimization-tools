@@ -1,5 +1,5 @@
 <a id="totop"></a>
-# Ускорение и оптимизация WordPress (wordpress-optimization-tools)
+# Оптимизация и ускорение WordPress (wordpress-optimization-tools)
 
 Здесь собираются основные советы и рекомендации по ускорению и оптимизации WordPress сайтов.
 
