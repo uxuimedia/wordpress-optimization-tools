@@ -1,6 +1,6 @@
 Кто проверял свои сайты в сервисе Google Pagespeed тот уже видел рекомендации «Eliminate render-blocking resources».
 
-![Pagespeed Insights](./images/pagespeed-insights.png)
+![Pagespeed Insights](../images/pagespeed-insights.png)
 
 Рендеринг — это процесс превращения кода в видимую веб-страницу.
 
