@@ -13,6 +13,6 @@
 
 | # | Фича | Комментарий |
 |---|---|---|
-| 001 | [001 Remove unused plugins](./001 Remove unused plugins/README.md) | Удаляем неиспользуемые плагины |
+| 001 | [001 Remove unused plugins](./001%20Remove%20unused%20plugins/README.md) | Удаляем неиспользуемые плагины |
 
 <p align="right"><a href="#totop">&uarr; Наверх</a></p>
