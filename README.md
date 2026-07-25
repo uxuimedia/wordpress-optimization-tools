@@ -19,5 +19,7 @@
 | 004 | [004 Minifying and combining](./004%20Minifying%20and%20combining/README.md) | Минификация и объединение JavaScript и CSS файлов |
 | 005 | [005 Eliminate render-blocking resources](./005%20Eliminate%20render-blocking%20resources/README.md) | Устранение ресурсов, блокирующих рендеринг |
 | 006 | [006 Lazy loading](./006%20Lazy%20loading/README.md) | Ленивая загрузка изображений и видео |
+| 007 | [007 Preload](./007%20Preload/README.md) | Ленивая загрузка изображений и видео |
+
 
 <p align="right"><a href="#totop">&uarr; Наверх</a></p>
