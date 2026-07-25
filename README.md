@@ -14,5 +14,6 @@
 | # | Фича | Комментарий |
 |---|---|---|
 | 001 | [001 Remove unused plugins](./001%20Remove%20unused%20plugins/README.md) | Удаляем неиспользуемые плагины |
+| 002 | [002 Switching to Cloudflare](./002%20Switching%20to%20Cloudflare/README.md) | Переходим на Cloudflare |
 
 <p align="right"><a href="#totop">&uarr; Наверх</a></p>
