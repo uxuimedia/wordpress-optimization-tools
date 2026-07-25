@@ -20,4 +20,4 @@
 | 005 | [005 Eliminate render-blocking resources](./005%20Eliminate%20render-blocking%20resources/README.md) | Устранение ресурсов, блокирующих рендеринг |
 | 006 | [006 Lazy loading](./006%20Lazy%20loading/README.md) | Ленивая загрузка изображений и видео |
 
-<p align="right"><a href="#totop">&uarr; Наверх</a>%20</p>
+<p align="right"><a href="#totop">&uarr; Наверх</a></p>
