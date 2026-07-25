@@ -20,6 +20,6 @@
 | 005 | [005 Eliminate render-blocking resources](./005%20Eliminate%20render-blocking%20resources/README.md) | Устранение ресурсов, блокирующих рендеринг |
 | 006 | [006 Lazy loading](./006%20Lazy%20loading/README.md) | Ленивая загрузка изображений и видео |
 | 007 | [007 Preload](./007%20Preload/README.md) | Включение предварительной загрузки |
-
+| 008 | [008 Latest versions](./008%20Latest%20versions/README.md) | Свежие версии WordPress и PHP |
 
 <p align="right"><a href="#totop">&uarr; Наверх</a></p>
