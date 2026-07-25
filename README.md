@@ -1,5 +1,5 @@
 <a id="totop"></a>
-# Оптимизация и ускорение WordPress (wordpress-optimization-tools)
+# Оптимизация и ускорение WordPress :rocket: (wordpress-optimization-tools)
 
 ![WordPress CMS by UXUI.media](images/wordpress-cms.jpg)
 
