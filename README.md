@@ -21,7 +21,7 @@
 | 006 | [006 Lazy loading](./006%20Lazy%20loading/README.md) | Ленивая загрузка изображений и видео |
 | 007 | [007 Preload](./007%20Preload/README.md) | Включение предварительной загрузки |
 | 008 | [008 Latest versions](./008%20Latest%20versions/README.md) | Свежие версии WordPress и PHP |
-| 009 | [009 Background processes](./009%20Background%20processes/README.md) | Свежие версии WordPress и PHP |
-| 010 | [010 Optimization of database operations](./010%20Optimization%20of%20database%20operations/README.md) | Свежие версии WordPress и PHP |
+| 009 | [009 Background processes](./009%20Background%20processes/README.md) | Оптимизация фоновых процессов |
+| 010 | [010 Optimization of database operations](./010%20Optimization%20of%20database%20operations/README.md) | Оптимизация работы базы данных |
 
 <p align="right"><a href="#totop">&uarr; Наверх</a></p>
